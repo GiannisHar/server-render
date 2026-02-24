@@ -1,0 +1,11 @@
+python-socketio
+eventlet
+asyncio
+aiohttp
+uvicorn
+psutil
+asyncpg
+psycopg2-binary
+argon2-cffi
+PyJWT
+bcrypt
