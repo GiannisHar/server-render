@@ -1,7 +1,0 @@
-python-socketio
-eventlet
-asyncio
-aiohttp
-uvicorn
-psutil
-psycopg2-binary
